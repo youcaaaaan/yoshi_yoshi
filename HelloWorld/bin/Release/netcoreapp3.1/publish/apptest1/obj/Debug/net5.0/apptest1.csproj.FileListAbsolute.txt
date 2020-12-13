@@ -1,0 +1,17 @@
+/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/bin/Release/netcoreapp3.1/publish/apptest1/obj/Debug/net5.0/apptest1.csprojAssemblyReference.cache
+/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/bin/Release/netcoreapp3.1/publish/apptest1/obj/Debug/net5.0/apptest1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/bin/Release/netcoreapp3.1/publish/apptest1/obj/Debug/net5.0/apptest1.AssemblyInfoInputs.cache
+/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/bin/Release/netcoreapp3.1/publish/apptest1/obj/Debug/net5.0/apptest1.AssemblyInfo.cs
+/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/bin/Release/netcoreapp3.1/publish/apptest1/obj/Debug/net5.0/apptest1.csproj.CoreCompileInputs.cache
+/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/bin/Release/netcoreapp3.1/publish/apptest1/bin/Debug/net5.0/apptest1.deps.json
+/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/bin/Release/netcoreapp3.1/publish/apptest1/bin/Debug/net5.0/apptest1.runtimeconfig.json
+/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/bin/Release/netcoreapp3.1/publish/apptest1/bin/Debug/net5.0/apptest1.runtimeconfig.dev.json
+/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/bin/Release/netcoreapp3.1/publish/apptest1/bin/Debug/net5.0/apptest1.dll
+/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/bin/Release/netcoreapp3.1/publish/apptest1/bin/Debug/net5.0/ref/apptest1.dll
+/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/bin/Release/netcoreapp3.1/publish/apptest1/bin/Debug/net5.0/apptest1.pdb
+/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/bin/Release/netcoreapp3.1/publish/apptest1/bin/Debug/net5.0/Figgle.dll
+/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/bin/Release/netcoreapp3.1/publish/apptest1/obj/Debug/net5.0/apptest1.csproj.CopyComplete
+/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/bin/Release/netcoreapp3.1/publish/apptest1/obj/Debug/net5.0/apptest1.dll
+/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/bin/Release/netcoreapp3.1/publish/apptest1/obj/Debug/net5.0/ref/apptest1.dll
+/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/bin/Release/netcoreapp3.1/publish/apptest1/obj/Debug/net5.0/apptest1.pdb
+/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/bin/Release/netcoreapp3.1/publish/apptest1/obj/Debug/net5.0/apptest1.genruntimeconfig.cache

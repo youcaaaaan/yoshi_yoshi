@@ -1,0 +1,4 @@
+/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/bin/Release/netcoreapp3.1/publish/HelloWorld.dll
+/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/bin/Release/netcoreapp3.1/publish/HelloWorld.deps.json
+/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/bin/Release/netcoreapp3.1/publish/HelloWorld.runtimeconfig.json
+/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/bin/Release/netcoreapp3.1/publish/HelloWorld.pdb

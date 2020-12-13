@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "91cINP/6Uu15yC911IDy31DY6q/thmbm/uR5MikVNjJwP6AGgPVUSfq96BMtzO91b5i8ypFrYHjAT0E0QmtA5Q==",
+  "success": true,
+  "projectFilePath": "/Users/takahashiyuu/Desktop/program/HelloWorld/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/Users/takahashiyuu/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
